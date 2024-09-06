@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZK/Zjnfov++JC2kkfdjH1X1Ou9RllrYOuPXn1jZOK66RfJds3bOOSU8rcWKrnk7OU0702zs1bL5sL+XK/xOSLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamya\\Desktop\\TaxiServiceApp\\TaxiServiceApp.Tests\\TaxiServiceApp.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamya\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\kamya\\.nuget\\packages\\moq\\4.20.71\\moq.4.20.71.nupkg.sha512",
+    "C:\\Users\\kamya\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\kamya\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\kamya\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

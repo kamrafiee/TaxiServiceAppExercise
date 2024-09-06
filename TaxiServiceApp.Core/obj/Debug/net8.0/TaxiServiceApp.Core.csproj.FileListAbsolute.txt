@@ -1,0 +1,11 @@
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\bin\Debug\net8.0\TaxiServiceApp.Core.deps.json
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\bin\Debug\net8.0\TaxiServiceApp.Core.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\bin\Debug\net8.0\TaxiServiceApp.Core.pdb
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\TaxiServiceApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\TaxiServiceApp.Core.AssemblyInfoInputs.cache
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\TaxiServiceApp.Core.AssemblyInfo.cs
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\TaxiServiceApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\TaxiServiceApp.Core.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\refint\TaxiServiceApp.Core.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\TaxiServiceApp.Core.pdb
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Core\obj\Debug\net8.0\ref\TaxiServiceApp.Core.dll

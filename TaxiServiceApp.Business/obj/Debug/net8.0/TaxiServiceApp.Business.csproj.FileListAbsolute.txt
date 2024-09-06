@@ -1,0 +1,17 @@
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\bin\Debug\net8.0\TaxiServiceApp.Business.deps.json
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\bin\Debug\net8.0\TaxiServiceApp.Business.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\bin\Debug\net8.0\TaxiServiceApp.Business.pdb
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\bin\Debug\net8.0\TaxiServiceApp.Core.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\bin\Debug\net8.0\TaxiServiceApp.Data.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\bin\Debug\net8.0\TaxiServiceApp.Core.pdb
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\bin\Debug\net8.0\TaxiServiceApp.Data.pdb
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.csproj.AssemblyReference.cache
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.AssemblyInfoInputs.cache
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.AssemblyInfo.cs
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.csproj.CopyComplete
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\refint\TaxiServiceApp.Business.dll
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\TaxiServiceApp.Business.pdb
+C:\Users\kamya\Desktop\TaxiServiceApp\TaxiServiceApp.Business\obj\Debug\net8.0\ref\TaxiServiceApp.Business.dll

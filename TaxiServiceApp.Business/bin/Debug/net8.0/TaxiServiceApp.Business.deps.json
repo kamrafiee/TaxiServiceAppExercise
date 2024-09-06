@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaxiServiceApp.Business/1.0.0": {
+        "dependencies": {
+          "TaxiServiceApp.Core": "1.0.0",
+          "TaxiServiceApp.Data": "1.0.0"
+        },
+        "runtime": {
+          "TaxiServiceApp.Business.dll": {}
+        }
+      },
+      "TaxiServiceApp.Core/1.0.0": {
+        "runtime": {
+          "TaxiServiceApp.Core.dll": {}
+        }
+      },
+      "TaxiServiceApp.Data/1.0.0": {
+        "dependencies": {
+          "TaxiServiceApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "TaxiServiceApp.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaxiServiceApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiServiceApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxiServiceApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
